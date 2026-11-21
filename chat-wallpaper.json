@@ -1,0 +1,21 @@
+{
+  "image": "C:\\Users\\诚诚\\.dsh\\chat-wallpaper\\dsh-wallpaper-v3a.png",
+  "imageFit": "cover",
+  "banner": "",
+  "bannerOpacity": 0.12,
+  "veilLightA": "rgba(253,250,254,.80)",
+  "veilLightB": "rgba(250,247,253,.68)",
+  "sidebarLight": "rgba(255,255,255,.78)",
+  "fallbackLight": "#f7f1f8",
+  "veilDarkA": "rgba(8,10,16,.74)",
+  "veilDarkB": "rgba(6,8,14,.62)",
+  "sidebarDark": "rgba(22,24,32,.74)",
+  "fallbackDark": "#0b0d12",
+  "veilBlur": 0,
+  "bgMode": "image",
+  "videoMode": "single",
+  "videoId": "",
+  "videoRoots": [],
+  "videoShuffleMinutes": 0,
+  "colorMode": "color"
+}
